@@ -19,8 +19,8 @@ after clicking the Generateprojects.bat file
 For a solution called Hedric 
 and projects Hedric and Sandbox
 
-<img src="images/image1.pmg" alt="image1"><br>
-<img src="images/image2.pmg" alt="image1"><br>
+<img src="./images/image1.pmg" alt="image1"><br>
+<img src="./images/image2.pmg" alt="image2"><br>
 
 
 
