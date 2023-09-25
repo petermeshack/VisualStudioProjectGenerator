@@ -1,0 +1,2 @@
+edit the premake5 for project to be generated and 
+BAT file to access the visual studio that you to suit the project you want to genarate 
