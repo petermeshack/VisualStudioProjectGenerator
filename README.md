@@ -1,5 +1,5 @@
 # VisualStudioProjectGenerator
-a project that helps generate q customized Visualstudio project using LUA and premake 
+a project that helps generate and customized Visualstudio project using LUA and premake 
 
 
 Remember to update your premake for better experience from 
