@@ -19,8 +19,8 @@ after clicking the Generateprojects.bat file
 For a solution called Hedric 
 and projects Hedric and Sandbox
 
-<img src="./images/image1.png" alt="image1"><br>
-<img src="./images/image2.png" alt="image2"><br>
+<img src="https://github.com/petermeshack/VisualStudioProjectGenerator/blob/main/images/image1.PNG?raw=true" alt="image1"><br>
+<img src="https://github.com/petermeshack/VisualStudioProjectGenerator/blob/main/images/image2.PNG?raw=true" alt="image2"><br>
 
 
 
